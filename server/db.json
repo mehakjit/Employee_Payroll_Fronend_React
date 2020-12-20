@@ -1,0 +1,55 @@
+{
+  "employee": [
+    {
+      "name": "Mehakjit Singh",
+      "departMent": [
+        "HR",
+        "Sales"
+      ],
+      "gender": "male",
+      "salary": "432123",
+      "startDate": "12 June 2020",
+      "notes": "first test entry!\n",
+      "id": "124",
+      "profileUrl": "../../assets/profile-images/Ellipse -1.png"
+    },
+    {
+      "name": "Merk Staurt",
+      "departMent": [
+        "Sales"
+      ],
+      "gender": "male",
+      "salary": "432123",
+      "startDate": "16 Dec 2020",
+      "notes": "second test entry!",
+      "id": "222",
+      "profileUrl": "../../assets/profile-images/Ellipse -3.png"
+    },
+    {
+      "name": "Fred William ",
+      "departMent": [
+        "Engineer"
+      ],
+      "gender": "male",
+      "salary": "489999",
+      "startDate": "28 Oct 2019",
+      "notes": "third check entry!",
+      "id": "110",
+      "profileUrl": "../../assets/profile-images/Ellipse -8.png"
+    },
+    {
+      "name": "Emily Brown",
+      "departMent": [
+        "HR",
+        "Engineer",
+        "Others"
+      ],
+      "gender": "female",
+      "salary": "456732",
+      "startDate": "16 May 2018",
+      "notes": "fourth check entry!!",
+      "id": "120",
+      "profileUrl": "../../assets/profile-images/Ellipse -1.png"
+    }
+  ]
+}
